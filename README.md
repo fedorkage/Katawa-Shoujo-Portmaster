@@ -16,10 +16,10 @@ The game **launches successfully** and appears to be **fully playable**. No majo
 - French  
 - Russian  
 
-**Save system** works.  
+**Save/Load** works.  
 **Fast-forwarding** works.  
 The game **does not crash** during normal gameplay.  
-**R18 content** is present.
+**R18 content** enabled.
 
 ---
 
