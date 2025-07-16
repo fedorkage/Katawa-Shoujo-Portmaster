@@ -44,6 +44,7 @@ The game **does not crash** during normal gameplay.
 This port is based on:  
 - The Ren'Py 8.0.3 version of Katawa Shoujo by [gcammisa](https://github.com/gcammisa/KatawaShoujo-RenPy8)  (you need to download game files from his repo and put the "game" folder into "katawashoujo" folder).
 - The PortMaster version of *Milk inside a bag of milk inside a bag of milk*
+- IMPORTANT: files from "game" folder are not the original game assets. it's just russian translate files compatible with this game version.
 
 I do **not** claim full authorship of this port. I'm not a programmer or developer — just a gamer with some basic computer skills and the help of ChatGPT.
 
