@@ -1,5 +1,11 @@
 # Katawa Shoujo – PortMaster Edition
 
+![Screenshot](https://raw.githubusercontent.com/kokseen1/ks-web-client/main/assets/ui/sd-emi-c.png)
+![Screenshot](https://raw.githubusercontent.com/kokseen1/ks-web-client/main/assets/ui/sd-hanako-c.png)
+![Screenshot](https://raw.githubusercontent.com/kokseen1/ks-web-client/main/assets/ui/sd-lilly-c.png)
+![Screenshot](https://raw.githubusercontent.com/kokseen1/ks-web-client/main/assets/ui/sd-rin-c.png)
+![Screenshot](https://raw.githubusercontent.com/kokseen1/ks-web-client/main/assets/ui/sd-shizune-c.png)
+
 **Ren'Py 8.3.4 – squashfs build**  
 **Tested on Anbernic RG35XX H running MuOS firmware**
 
@@ -46,6 +52,12 @@ At the moment, this port is **not available in the official PortMaster catalog**
 If you care about this game and have experience with Ren'Py or porting to ARM devices, **any help is welcome**. Please reach out or submit an issue/pull request if you'd like to contribute.
 
 ---
+
+## ❯ Feedback and Questions
+
+- [Telegram](t.me/y2kpunk)
+- [Email](fedeeeer45@gmail.com)
+
 
 ## ❯ Credits
 
