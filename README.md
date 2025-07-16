@@ -42,7 +42,7 @@ The game **does not crash** during normal gameplay.
 ## ❯ Notes
 
 This port is based on:  
-- The Ren'Py 8.0.3 version of Katawa Shoujo by [gcammisa](https://github.com/gcammisa/KatawaShoujo-RenPy8)  (you need to download game files from his repo and put the "game" folder into "katawashoujo" folder).
+- The Ren'Py 8.0.3 version of Katawa Shoujo by [gcammisa](https://github.com/gcammisa/KatawaShoujo-RenPy8).
 - The PortMaster version of *Milk inside a bag of milk inside a bag of milk*
 - IMPORTANT: files from "game" folder are not the original game assets. it's just russian translate files compatible with this game version.
 
@@ -51,6 +51,17 @@ I do **not** claim full authorship of this port. I'm not a programmer or develop
 At the moment, this port is **not available in the official PortMaster catalog**, as I believe it still needs polishing and stability improvements. I may consider submitting it in the future once it's more refined.
 
 If you care about this game and have experience with Ren'Py or porting to ARM devices, **any help is welcome**. Please reach out or submit an issue/pull request if you'd like to contribute.
+
+---
+
+## ❯ Installation
+
+1. Download and extract the archive.
+2. Copy "katawashoujo" folder and paste it in place where you have Portmaster games on your device
+3. Download Katawa Shoujo RenPy8 game files from [gcammisa](https://github.com/gcammisa/KatawaShoujo-RenPy8) repository. Extract it and copy "game" folder into katawashoujo folder on your device.
+4. Run the "Katawa Shoujo.sh" file
+
+
 
 ---
 
