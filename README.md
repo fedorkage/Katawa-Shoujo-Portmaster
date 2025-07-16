@@ -28,7 +28,7 @@ The game **does not crash** during normal gameplay.
 - R18 content **cannot be disabled** at the moment.  
 - **Performance is suboptimal**, but acceptable for a visual novel.  
 - **Long startup time.**  
-- **Controls need refinement** (navigation may feel clunky).  
+- **Controls need refinement** (edit the gptk file).  
 - **Video playback is broken**: audio plays, but screen remains black (possibly related to `gl4es` rendering).
 
 ---
