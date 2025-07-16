@@ -1,0 +1,6 @@
+{
+  "name": "Katawa Shoujo",
+  "exec": "./start.sh",
+  "runtime": "renpy_8.3.7",
+  "input_method": "gamepad"
+}
